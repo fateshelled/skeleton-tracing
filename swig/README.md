@@ -70,5 +70,10 @@ Run `compile.sh`. You may need to modify the python include path.
 
 Run `sh install.sh`.
 
+## Build wheel package
+
+Run `sh build_wheel.sh`
+
+
 **Developed at [Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org) at Carnegie Mellon University.**
 
