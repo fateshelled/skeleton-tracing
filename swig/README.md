@@ -66,5 +66,9 @@ while (len_polyline() != -1):
 
 Run `compile.sh`. You may need to modify the python include path.
 
+## Build and Install
+
+Run `sh install.sh`.
+
 **Developed at [Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org) at Carnegie Mellon University.**
 
